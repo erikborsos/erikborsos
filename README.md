@@ -25,7 +25,7 @@
   CPU: Apple M2
   GPU: Apple M2
 ├─────────────── User Information ───────────────┤
-  Uptime: 19 years
+  Uptime: 19 years, 5 months, 29 days
   Host: HTL Wels
   Kernel: Information Technology
   Languages:
@@ -97,3 +97,5 @@
 [tailwindcss]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [threejs]: https://img.shields.io/badge/threejs-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white
 [sh]: https://img.shields.io/badge/sh-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+
+Age: 20 years, -7 months, 1012 weeks, 6 days
