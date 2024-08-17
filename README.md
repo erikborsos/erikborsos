@@ -25,7 +25,7 @@
   CPU: Apple M2
   GPU: Apple M2
 ├─────────────── User Information ───────────────┤
-  Uptime: 19 years, 11 months, 26 days
+  Uptime: 19 years, 11 months, 27 days
   Host: HTL Wels
   Kernel: Information Technology
   Languages:
