@@ -26,8 +26,8 @@
   GPU: Apple M2
 ├─────────────── User Information ───────────────┤
   Uptime: 20 years, 1 months, -11 days
-  Host: HTL Wels
-  Kernel: Information Technology
+  Host: JKU Linz
+  Kernel: Computer Science
   Languages:
   -----------
   Programming: Java, Go, TypeScript, ...
