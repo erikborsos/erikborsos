@@ -25,7 +25,7 @@
   CPU: Apple M2
   GPU: Apple M2
 ├─────────────── User Information ───────────────┤
-  Uptime: 20 years, 9 months, 7 days
+  Uptime: 20 years, 9 months, 8 days
   Host: JKU Linz
   Kernel: Computer Science
   Languages:
